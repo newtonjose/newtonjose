@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### Abstract
+
+<!-- - 👨‍💻 I'm currently working full-time at [**Escale**](https://escale.com.br/). -->
+<!-- - 🌱 Learning more about and studying: **Golang, Microservices and Apache Kafka**. -->
+- [![LinkedIn][1.1]][1] Linkedin
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1]: https://www.linkedin.com/in/joseniltonsjesus/
+
 <!--
 **newtonjose/newtonjose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

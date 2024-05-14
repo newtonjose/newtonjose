@@ -4,8 +4,8 @@
 
 <!-- - 👨‍💻 I'm currently working full-time at [**Escale**](https://escale.com.br/). -->
 <!-- - 🌱 Learning more about and studying: **Golang, Microservices and Apache Kafka**. -->
-- [![LinkedIn][1.1]][1] [Linkedin](https://www.linkedin.com/in/joseniltonsjesus/)
-- [![CodersRank][2.1]][2]
+- [Linkedin](https://www.linkedin.com/in/joseniltonsjesus/)
+- [CodersRank](https://profile.codersrank.io/user/newtonjose)
 
 [1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1]: https://www.linkedin.com/in/joseniltonsjesus/
